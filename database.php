@@ -22,6 +22,7 @@ class Database
 }
 // Data Tabel Guru
 include 'guru.php';
+include 'dosen.php';
 
 // data tabel A
 // include ''
